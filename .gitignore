@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# PyInstaller 打包产物
+build/
+dist/
+*.spec
+
+# 运行时生成（含个人阅读进度/路径，不应提交）
+config.json
+crash.log
+
+# 备份文件
+*.bak
+*.py.bak
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
